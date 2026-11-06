@@ -1,0 +1,86 @@
+{
+ "id": "mw3vcp94nkr12i",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 159114805,
+ "parts": [
+  {
+   "path": "media/mw3vcp94nkr12i/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p003.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p004.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p005.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p006.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p007.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p008.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p009.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p010.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p011.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p012.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p013.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p014.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p015.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p016.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p017.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw3vcp94nkr12i/p018.part",
+   "size": 8119861
+  }
+ ],
+ "source": "https://tpcdn.satnym.com/video/2025-12-06/1765027108.mp4",
+ "created_at": 1793902720000
+}

@@ -1,0 +1,28 @@
+{
+ "id": "mw4jcem01kqz6p",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 23615879,
+ "parts": [
+  {
+   "path": "media/mw4jcem01kqz6p/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4jcem01kqz6p/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4jcem01kqz6p/p002.part",
+   "size": 6838663
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=EdmsHT2tl-U",
+ "created_at": 1793943095000,
+ "title": "I Paid $10 for a BRUTAL Ear Cleaning in China \ud83c\udde8\ud83c\uddf3",
+ "channel": "Nic Explores",
+ "yt_id": "EdmsHT2tl-U",
+ "thumb": "media/mw4jcem01kqz6p.thumb.jpg",
+ "dur": 454,
+ "preview": "media/mw4jcem01kqz6p.preview.gif"
+}
