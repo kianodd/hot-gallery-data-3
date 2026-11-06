@@ -1,0 +1,68 @@
+{
+ "id": "mw52uupz9dcncs",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 101280507,
+ "parts": [
+  {
+   "path": "media/mw52uupz9dcncs/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p003.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p004.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p005.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p006.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p007.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p008.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p009.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p010.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p011.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw52uupz9dcncs/p012.part",
+   "size": 617211
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+ "created_at": 1793975836000,
+ "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+ "channel": "Marques Brownlee",
+ "yt_id": "g6Die8gVFn0",
+ "thumb": "media/mw52uupz9dcncs.thumb.jpg",
+ "dur": 779,
+ "preview": "media/mw52uupz9dcncs.preview.gif"
+}
